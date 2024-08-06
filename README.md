@@ -18,7 +18,7 @@
 
 ### Data Scientist
 **Bnbme Holiday Homes, Dehradun**  
-*October 2023 - July 2024*
+*October 2023 - Present*
 
 - Developed and maintained data pipelines to ensure smooth data flow.
 - Implemented web scraping techniques to automate data gathering processes.
@@ -40,7 +40,6 @@
 
 ## Education and Certifications
 
-- **Harvard CS50’s Introduction to Programming with Python**, (2024)
 - **Google Data Analytics Certificate**, Coursera (2022)
 - **Introduction to Statistics**, Coursera (2022)
 - **Mechanical Engineering, B.Tech**, AKTU University (2013 - 2017) - Percentage: 69.6%
@@ -73,3 +72,19 @@ Feel free to reach out to me for any collaboration or queries:
 - **Email**: shubham@example.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shubham)
 - **GitHub**: [GitHub Profile](https://github.com/shubham)
+
+## Additional Information
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+### Blockquote
+> This is a blockquote following a header.
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Code Snippets
+```javascript
+// JavaScript code with syntax highlighting.
+var fun = function(lang) {
+  dateformat.i18n = require('./lang/' + lang);
+  return true;
+}
