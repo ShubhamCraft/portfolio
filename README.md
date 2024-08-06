@@ -11,11 +11,9 @@ Hi, I'm Shubham Tiwari, a dedicated professional with expertise in data analysis
 - **Database Management**: MySQL, PostgreSQL, MongoDB, BigQuery
 - **Data Processing**: Pandas, Numpy, PySpark
 - **Web Technologies**: Selenium, Web Scraping
-- **ETL Tools**: Apache NiFi, Talend
 - **Version Control**: Git
 - **API Testing**: Postman
-- **Cloud Platforms**: AWS (S3, Redshift), Google Cloud Platform (BigQuery)
-- **Data Warehousing**: Snowflake, Amazon Redshift
+- **Cloud Platforms**: AWS , Google Cloud Platform (BigQuery)
 - **Project Management**: Jira
 
 ## Experience
@@ -57,15 +55,11 @@ Hi, I'm Shubham Tiwari, a dedicated professional with expertise in data analysis
 
 ## Projects
 
-### [Market Analysis Dashboard](https://github.com/your-username/project-link)
-- **Description**: Developed an interactive dashboard to visualize market trends and insights, resulting in a 20% increase in data accessibility for the marketing team.
-- **Technologies Used**: Power BI, MySQL, Python
-
 ### [Automated Data Pipeline](https://github.com/ShubhamCraft/AutomatedDataPipeline)
 - **Description**: Created an automated data pipeline for seamless data flow and processing.
 - **Technologies Used**: Selenium, ETL, MySQL
 
-### [Web Scraping for Competitive Analysis](https://github.com/your-username/project-link)
+### [Web Scraping for Competitive Analysis](https://github.com/ShubhamCraft/WebscrapingForCompetitiveAnalysis)
 - **Description**: Implemented web scraping techniques to gather data for competitive analysis.
 - **Technologies Used**: Python, Selenium
 
