@@ -2,14 +2,14 @@
 
 ## Introduction
 
-Hi, I'm Shubham Tiwari, a dedicated Data Scientist with expertise in data analysis, visualization, and engineering. My passion lies in transforming data into actionable insights and driving data-driven decision-making processes.
+Hi, I'm Shubham Tiwari, a dedicated professional with expertise in data analysis, visualization, and engineering. My passion lies in transforming data into actionable insights and driving data-driven decision-making processes.
 
 ## Technical Skills
 
-- **Programming Languages**: Python, R, SQL, Java
+- **Programming Languages**: Python, R, SQL
 - **Data Analysis & Visualization**: MS Excel, Power BI, Tableau
 - **Database Management**: MySQL, PostgreSQL, MongoDB, BigQuery
-- **Data Processing**: Pandas, Numpy, PySpark, Apache Spark
+- **Data Processing**: Pandas, Numpy, PySpark
 - **Web Technologies**: Selenium, Web Scraping
 - **ETL Tools**: Apache NiFi, Talend
 - **Version Control**: Git
@@ -22,7 +22,7 @@ Hi, I'm Shubham Tiwari, a dedicated Data Scientist with expertise in data analys
 
 ### Data Scientist
 **Bnbme Holiday Homes, Dehradun**  
-*October 2023 - Present*
+*October 2023 - July 2024*
 
 - Developed and maintained data pipelines to ensure smooth data flow.
 - Implemented web scraping techniques to automate data gathering processes.
@@ -44,15 +44,16 @@ Hi, I'm Shubham Tiwari, a dedicated Data Scientist with expertise in data analys
 
 ## Education and Certifications
 
+- **Harvard CS50’s Introduction to Programming with Python**, (2024)
 - **Google Data Analytics Certificate**, Coursera (2022)
 - **Introduction to Statistics**, Coursera (2022)
-- **Mechanical Engineering, B.Tech**, AKTU University (2013 - 2017) - Percentage: 69.6%
+- **B.Tech**, AKTU University (2013 - 2017) 
 
 ## Key Achievements
 
 - Increased operational efficiency by 30% through automated SQL queries.
 - Developed a market analysis dashboard that improved data-driven decision-making.
-- Streamlined data collection processes, saving 15 hours per week.
+- Streamlined data collection processes, saving 10 hours per week.
 
 ## Projects
 
@@ -66,7 +67,7 @@ Hi, I'm Shubham Tiwari, a dedicated Data Scientist with expertise in data analys
 
 ### [Web Scraping for Competitive Analysis](https://github.com/your-username/project-link)
 - **Description**: Implemented web scraping techniques to gather data for competitive analysis.
-- **Technologies Used**: Python, Selenium, BeautifulSoup
+- **Technologies Used**: Python, Selenium
 
 ## Soft Skills
 
@@ -77,12 +78,12 @@ Hi, I'm Shubham Tiwari, a dedicated Data Scientist with expertise in data analys
 
 ## About Me
 
-I'm passionate about leveraging data to solve complex problems and create value. In my free time, I enjoy reading about new advancements in data science, hiking, and exploring new technologies.
+I'm passionate about leveraging data to solve complex problems and create value. In my free time, I enjoy reading about new advancements in data field, hiking, and exploring new technologies.
 
 ## Contact
 
 Feel free to reach out to me for any collaboration or queries:
 
-- **Email**: shubham@example.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shubham)
-- **GitHub**: [GitHub Profile](https://github.com/shubham)
+- **Email**: shubhamtwr2@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shubham-tiwari-m/)
+- **GitHub**: [GitHub Profile](https://github.com/ShubhamCraft)
