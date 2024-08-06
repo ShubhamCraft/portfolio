@@ -1,5 +1,21 @@
-title: Shubham Tiwari
-logo: linkedinimage.jpg
-#description: text below image
+# Personal Portfolio Configuration
+title: "Shubham Tiwari"
+logo: "linkedinimage.jpg"
+
+# Additional information
+#description: "Text below image" # Uncomment and customize if your theme supports descriptions
+
+# Enable download button for repository files
 show_downloads: true
+
+# Theme customization
 theme: jekyll-theme-minimal
+
+# Additional theme customization (if supported)
+# Customize the appearance with the following options (example settings)
+theme_settings:
+  primary_color: "#3498db"
+  secondary_color: "#2ecc71"
+  font_family: "Arial, sans-serif"
+  show_search: true # Enable search functionality if supported
+  show_nav: true # Enable navigation bar if supported
