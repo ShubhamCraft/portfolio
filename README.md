@@ -61,9 +61,9 @@ Hi, I'm Shubham Tiwari, a dedicated professional with expertise in data analysis
 - **Description**: Developed an interactive dashboard to visualize market trends and insights, resulting in a 20% increase in data accessibility for the marketing team.
 - **Technologies Used**: Power BI, MySQL, Python
 
-### [Automated Data Pipeline](https://github.com/your-username/project-link)
+### [Automated Data Pipeline](https://github.com/ShubhamCraft/AutomatedDataPipeline)
 - **Description**: Created an automated data pipeline for seamless data flow and processing.
-- **Technologies Used**: PySpark, ETL, MySQL
+- **Technologies Used**: Selenium, ETL, MySQL
 
 ### [Web Scraping for Competitive Analysis](https://github.com/your-username/project-link)
 - **Description**: Implemented web scraping techniques to gather data for competitive analysis.
